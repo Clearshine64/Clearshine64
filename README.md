@@ -6,7 +6,7 @@ Deep experience in software engineering and architecture, active collaboration w
 
 ## Blockchain Developer & core development ⚡
 - Webapp development and deploying using Microsoft Azure DevOps
-- Developed the site: https://dice.one dapp game using blockchain
+- Developed the site: https://www.clovr.com/dapp-reviews/dice/ dapp game using blockchain
 - Ethereum core code fork
 
 ## Game developer & Auto system Developer ⚡
