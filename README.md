@@ -12,6 +12,7 @@ Deep experience in software engineering and architecture, active collaboration w
 ## Game developer & Auto system Developer ⚡
 - Cocos2dx RTS Game for 2 years (C++ engine development)
 - CSGO vertigo boosting panel and website for server / clients management (C++ engine)
+- TOP3(Tales Of Pirates 3) game engine development
 - ARMA, GTA custom scripting (C++ engine)
 
 ## Linux/Network Security Developer ⚡
