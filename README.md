@@ -5,15 +5,16 @@ Deep experience in software engineering and architecture, active collaboration w
 ### EXPERIENCE
 
 ## Blockchain Developer & core development ⚡
-- Webapp development and deploying using Microsoft Azure DevOps
-- Developed the site: http://www.playonlinedicegames.com/ dapp game using blockchain
-- Ethereum core code fork (GoLang)
+- Devoted to develop https://bogged.finance (this site allows you to research and place orders for any token on Binance Smart Chain - FinTech)
+- http://www.playonlinedicegames.com
+- Forked Go-Etheruem core code to create new blockchain
+- Konstellation-binance bridge core code using GoLang
 
 ## Game developer & Auto system Developer ⚡
 - Cocos2dx RTS Game for 2 years (C++ engine development)
 - CSGO vertigo boosting panel and website for server / clients management (C++ engine)
 - TOP3(Tales Of Pirates 3) game engine development
-- ARMA, GTA custom scripting (C++ engine)
+- Web scraping (Python and NodeJS)
 
 ## Linux/Network Security Developer ⚡
 - Improvement VPN performance (VPN is designed with C++)
