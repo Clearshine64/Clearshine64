@@ -21,6 +21,7 @@ Deep experience in software engineering and architecture, active collaboration w
 - Improvement VPN performance (VPN is designed with C++)
 - Kernel, control channel in user space. (C++, Assembly)
 - Security Gateway OS development (C++, Network)
+- Anti-virus development using ClamAV engine (C++/C#)
 
 <!--
 **Clearshine2021/Clearshine2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
