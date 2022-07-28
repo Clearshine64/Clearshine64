@@ -8,7 +8,7 @@ Deep experience in software engineering and architecture, active collaboration w
 - Devoted to develop https://bogged.finance (this site allows you to research and place orders for any token on Binance Smart Chain - FinTech)
 - http://www.playonlinedicegames.com
 - Forked Go-Etheruem core code to create new blockchain
-- Konstellation-binance bridge core code using GoLan
+- Konstellation-binance bridge core code using GoLang
 - Developed Crypto Hardware Wallet – Digital Assets
 
 ## Game developer & Auto system Developer ⚡
